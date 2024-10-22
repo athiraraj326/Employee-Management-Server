@@ -1,0 +1,25 @@
+{
+  "allEmployees": [
+    {
+      "id": "8252",
+      "empId": "101",
+      "empName": "Emily Johnson",
+      "emailId": "emily.johnson@gmail.com",
+      "empStatus": "Active"
+    },
+    {
+      "id": "72db",
+      "empId": "105",
+      "empName": "Michael Williams",
+      "emailId": "michael.williams@gmail.com",
+      "empStatus": "Inactive"
+    },
+    {
+      "id": "bfa3",
+      "empId": "220",
+      "empName": "James Davis",
+      "emailId": "james.davis@gmail.com",
+      "empStatus": "Active"
+    }
+  ]
+}
